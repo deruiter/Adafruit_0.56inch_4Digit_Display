@@ -1,11 +1,12 @@
 # Adafruit 4 Digit 7 segment (clock) displays
 Eagle CAD files for the excellent Adafruit 0.56" 4 Digit Display's
 
-I *LOVE* the Adafruit 4 Digit 7 segment (clock) displays...
+I absolutely *LOVE* the Adafruit 4 Digit 7 segment (clock) displays...
 They come in different colors and are Common CATHODE so you can use them with the Maxim 7219 / 7221 chips
 
 I use them a lot so I made a PCB for the display's, check it out...
 
+Visit my Arduine playground: https://www.flickr.com/photos/edr1924/sets/
 ============================================================================================================
 
 These files are free; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
