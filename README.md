@@ -6,7 +6,7 @@ They come in different colors and are Common CATHODE so you can use them with th
 
 I use them a lot so I made a PCB for the display's, check it out...
 
-Visit my Arduine playground: https://www.flickr.com/photos/edr1924/sets/
+Visit my Arduino playground: https://www.flickr.com/photos/edr1924/sets/
 ============================================================================================================
 
 These files are free; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
