@@ -7,8 +7,12 @@ They come in different colors and are Common CATHODE so you can use them with th
 I use them a lot so I made a PCB for the display's, check it out...
 
 
-The wonderful Maxim 7219/7221 chip is what I use to control the 7 segment displays, so the Ledcontrol library is added, also some information about the Maxim chip and Ledcontrol library.
+The wonderful Maxim 7219/7221 chip is what I use to control the 7 segment displays, so the Ledcontrol library is added. TIP: At the www.reichel.de webshop, Europeans can buy Maxim chips very cheap so the price can't be the obstacle not to use the Maxim chips.
 
+
+Ledcontrol info: http://playground.arduino.cc/Main/LedControl
+
+Maxim chip info: http://playground.arduino.cc/Main/MAX72XXHardware
 
 Visit my Arduino playground: https://www.flickr.com/photos/edr1924/sets/
 ============================================================================================================
