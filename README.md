@@ -9,7 +9,7 @@ I use them a lot so I made a PCB for the display's, check it out...
 
 The wonderful Maxim 7219/7221 chip is what I use to control the 7 segment displays, so the Ledcontrol library is added. TIP: At the www.reichelt.de webshop, Europeans can buy Maxim chips very cheap so the price can't be the obstacle to use the Maxim chips ;)  
 
-BTW: I do NOT get money from Adafruit or Reichelt, I simply want to share this info so other can benefit from the many, many hours I invested in making this PCB.
+BTW: I do NOT get money from Adafruit or Reichelt, I simply want to share this info so others can benefit from the many, many hours I invested in making this PCB.
 
 Ledcontrol info: http://playground.arduino.cc/Main/LedControl
 
